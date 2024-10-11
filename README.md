@@ -50,4 +50,4 @@ Scope:
 This project is a Stock Price Prediction Web Model built using Streamlit that predicts future stock prices based on historical data. The model uses Long Short-Term Memory (LSTM), a type of recurrent neural network (RNN), to analyze stock prices over time and forecast future trends.
 
 The web app allows users to input a stock ticker symbol, fetch the historical stock data, and predict future prices using machine learning
-Uploading stock_prediction_model (1).mp4…
+https://github.com/user-attachments/assets/5bc40277-00d2-45e4-91e7-9851baaa1f4f
