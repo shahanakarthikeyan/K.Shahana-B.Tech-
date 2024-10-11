@@ -46,3 +46,8 @@ Scope:
 *Incorporating other financial indicators (e.g., moving averages, volume) to enhance prediction accuracy.
 *Adding sentiment analysis from news articles or social media to account for external factors influencing stock prices.
 *Building a real-time stock price prediction dashboard with live data streaming.
+
+This project is a Stock Price Prediction Web Model built using Streamlit that predicts future stock prices based on historical data. The model uses Long Short-Term Memory (LSTM), a type of recurrent neural network (RNN), to analyze stock prices over time and forecast future trends.
+
+The web app allows users to input a stock ticker symbol, fetch the historical stock data, and predict future prices using machine learning
+Uploading stock_prediction_model (1).mp4…
